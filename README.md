@@ -1,7 +1,7 @@
 <h1 align="center"><b>Web Development</b></h>
 
-# Website The Band
+## 1. Website The Band
 
-# Webste demo BEM
+## 2. Webste demo BEM
 
-# Website Shopee
+## 3. Website Shopee
