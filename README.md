@@ -4,7 +4,7 @@
   - Website gốc: [The Band](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
   - Ngôn ngữ: HTML, CSS, Javascript.
   - Thời gian hoàn thành: 2 tuần.</br>
-  </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/78d2f28cc03e5d9d6b256ee12ccd6cda5b6e2c7b/Image/TheBand.png'></img>
+  </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/7085624b5685fe904d192517b354fda3616581e9/Image/TheBand.png'></img>
 ## 2. Webste demo BEM
   - Website gốc: F8
   - Ngôn ngữ: HTML, CSS, Javascript.
