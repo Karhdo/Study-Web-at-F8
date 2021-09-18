@@ -8,7 +8,8 @@
 ## 2. Webste demo BEM
   - Website gốc: F8
   - Ngôn ngữ: HTML, CSS, Javascript.
-  - Thời gian hoàn thành: 1 tuần.
+  - Thời gian hoàn thành: 1 tuần.</br>
+  </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/283d417bd25c0f2af12379f70504169290d91b34/Image/BEM.png'></img>
 ## 3. Website Shopee
   - Website gốc: https://shopee.vn/
   - Ngôn ngữ: HTML, CSS, Javascript.
