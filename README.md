@@ -13,4 +13,5 @@
 ## 3. Website Shopee
   - Website gốc: https://shopee.vn/
   - Ngôn ngữ: HTML, CSS, Javascript.
-  - Thời gian hoàn thành: 2 tuần.
+  - Thời gian hoàn thành: 2 tuần.</br>
+  </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/4a23e5f2b0712e95444d97e422eb9bdbfde0f716/Image/Shoppe.png'></img>
