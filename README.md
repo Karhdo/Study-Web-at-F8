@@ -6,7 +6,7 @@
   - Thời gian hoàn thành: 2 tuần.</br>
   </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/7085624b5685fe904d192517b354fda3616581e9/Image/TheBand.png'></img>
 ## 2. Webste demo BEM
-  - Website gốc: F8
+  - Website gốc: [dribbble](https://dribbble.com/)
   - Ngôn ngữ: HTML, CSS, Javascript.
   - Thời gian hoàn thành: 1 tuần.</br>
   </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/283d417bd25c0f2af12379f70504169290d91b34/Image/BEM.png'></img>
