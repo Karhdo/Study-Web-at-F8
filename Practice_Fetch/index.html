@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <title>Document</title>
+    </head>
+    <body>
+        <h2>Danh sách khoá học</h2>
+        <ul id="list-courses"></ul>
+        <div>
+            <div>
+                <label for="">Name</label>
+                <input type="text" name="name" style="margin-left: 37px;"/>
+            </div>
+            <div>
+                <label for="">Description</label>
+                <input type="text" name="description"/>
+            </div>
+                <button id="create">Create</button>
+                <button id="update">Update</button>
+            </div>
+        </div>
+    </body>
+    <script>
+        var courseAPI = "http://localhost:3000/courses";
+
+        function getCourses(callback) {
+            fetch(courseAPI)
+                .then(function (resopnse) {
+                    return resopnse.json();
+                })
+                .then(callback);
+        }
+
+        function createCourses(data) {
+            fetch(courseAPI, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify(data),
+            })
+                .then(function (resopnse) {
+                    return resopnse.json();
+                })
+                .then(function () {
+                    var htmls = `
+                        <li class='course-item-${data.id}'>
+                            <h4>${data.name}</h4>
+                            <p>${data.description}</p>
+                            <button onClick="handleDeleteCourse(${data.id})">Xoá</button>
+                            <button onClick="handleUpdateCourse(${course.id})">Sửa</button>
+                        </li>
+                        `;
+                    $("#list-courses").append(htmls);
+                });
+        }
+
+        function handleDeleteCourse(courseID) {
+            fetch(courseAPI + `/${courseID}`, {
+                method: "DELETE",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+            })
+                .then(function (resopnse) {
+                    return resopnse.json();
+                })
+                .then(function () {
+                    var courseItem = $(".course-item-" + courseID);
+                    if (courseItem) {
+                        courseItem.remove();
+                    }
+                });
+        }
+
+        function handleUpdateCourse(id) {
+            var element_li = `.course-item-${id}`;
+            $('input[name="name"]').val($(element_li + " h4").text());
+            $('input[name="description"]').val($(element_li + " p").text());
+
+            $("#update").click(function () {
+                var data = {
+                    name: $('input[name="name"]').val(),
+                    description: $('input[name="description"]').val(),
+                };
+
+                console.log(data);
+
+                fetch(courseAPI + "/" + id, {
+                    method: "PUT",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify(data),
+                })
+                    .then(function (resopnse) {
+                        return resopnse.json();
+                    })
+                    .then(function () {
+                        $('input[name="name"]').val("");
+                        $('input[name="description"]').val("");
+                        $(element_li + " h4").html(data.name);
+                        $(element_li + " p").html(data.description);
+                    });
+            });
+        }
+
+        function renderCourses(courses) {
+            var listCoursesBlock = $("#list-courses");
+            var htmls = courses.map(function (course) {
+                return `
+                        <li class='course-item-${course.id}'>
+                            <h4>${course.name}</h4>
+                            <p>${course.description}</p>
+                            <button onClick="handleDeleteCourse(${course.id})">Xoá</button>
+                            <button onClick="handleUpdateCourse(${course.id})">Sửa</button>
+                        </li>
+                        `;
+            });
+            listCoursesBlock.append(htmls.join(""));
+        }
+
+        function handleCreateForm() {
+            $("#create").click(function () {
+                var name = $("input[name='name']").val();
+                var description = $("input[name='description']").val();
+                var formData = {
+                    name: name,
+                    description: description,
+                };
+                createCourses(formData);
+            });
+        }
+
+        function start() {
+            getCourses(renderCourses);
+            handleCreateForm();
+        }
+
+        start();
+    </script>
+</html>
