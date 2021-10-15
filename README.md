@@ -20,8 +20,8 @@
   - Code: [F8-Shopee](./F8-Shopee)</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b4d22ba4e987952d85599f1aa217174f5acf92db/Image/Responsive.png'></img>
 
-## Javascript Cơ Bản
+## Javascript Cơ Bản.
 ### Thêm/sửa/xóa khóa học với Fetch và REST API.
-  - Code: [F8-Shopee](./Practice)</br>
-  - Chạy Fake AIP: mở Termial và di chuyển đển thư mục 
+  - Code: [F8-Shopee](./Practice_Fetch)</br>
+  - Chạy Fake AIP: mở Termial và di chuyển đển thư mục Json_server chạy lệnh `npm start`
 <img src='https://github.com/trong-khanh-1109/Web-Development/blob/b15c63f9edf1843806b9e6082b6c5c06fa798b6a/Image/Javascript_1.png'></img>
