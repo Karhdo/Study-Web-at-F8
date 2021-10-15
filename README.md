@@ -22,6 +22,6 @@
 
 ## Javascript Cơ Bản.
 ### Thêm/sửa/xóa khóa học với Fetch và REST API.
-  - Code: [F8-Shopee](./Practice_Fetch)</br>
+  - Code: [Practice_Fetch](./Practice_Fetch)</br>
   - Chạy Fake AIP: mở Termial và di chuyển đển thư mục Json_server chạy lệnh `npm start`
 <img src='https://github.com/trong-khanh-1109/Web-Development/blob/b15c63f9edf1843806b9e6082b6c5c06fa798b6a/Image/Javascript_1.png'></img>
