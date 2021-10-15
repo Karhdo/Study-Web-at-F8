@@ -19,5 +19,5 @@
 
 ## Responsive Với Grid System
 ### Responsive F8-Shop sử dụng Grid System
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b4d22ba4e987952d85599f1aa217174f5acf92db/Image/Responsive.png'></img>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b4d22ba4e987952d85599f1aa217174f5acf92db/Image/Responsive.png'></img>
 
