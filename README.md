@@ -23,4 +23,4 @@
 
 ## Javascript Cơ Bản
 ### Thêm/sửa/xóa khóa học với Fetch và REST API.
-<img src='https://github.com/trong-khanh-1109/Web-Development/blob/84a7c95b75261ebeea94bdf1ca42d3cca4db6f29/Image/F8-Shop.png'></img>
+<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b15c63f9edf1843806b9e6082b6c5c06fa798b6a/Image/Javascript_1.png'></img>
