@@ -3,7 +3,7 @@
 ## HTML, CSS từ Zero đến Hero.
 ### 1. Website The Band.
   - Website gốc: [The Band](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
-  - Code: [The Band](./1.HTML, CSS từ Zero đến Hero/1.w3_band)</br>
+  - Code: <a href='1. HTML, CSS từ Zero đến Hero/1. w3_band/index.html'>The Band</a></br>
   </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/a28cd515cc55ec9df460fd9caac1f9d81a713650/Image/The-Band.png'></img>
 ### 2. Webste demo BEM.
   - Website gốc: [dribbble](https://dribbble.com/)
