@@ -11,7 +11,7 @@
   </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/283d417bd25c0f2af12379f70504169290d91b34/Image/BEM.png'></img>
 ### 3. Website F8-Shop.
   - Website gốc: https://shopee.vn/
-  - Code: <a href='2. Responsive/1. F8-Shopeee'>F8-Shop</a></br>
+  - Code: <a href='2. Responsive/1. F8-Shopee'>F8-Shop</a></br>
   </br><img src='https://github.com/trong-khanh-1109/Web-Development/blob/84a7c95b75261ebeea94bdf1ca42d3cca4db6f29/Image/F8-Shop.png'></img>
 
 ## Responsive Với Grid System.
