@@ -29,4 +29,5 @@
 ### Xây dựng Tabs UI.
   - Website gốc: [dribbble](https://dribbble.com/shots/14483921-React-UI-kit-for-Figma-Design-Code-toolkit-2-in-1/attachments/6168243?mode=media)
   - Code: <a href='./3. Javascript cơ bản/2. Xây dựng Tabs UI'>Tabs UI</a></br>
+<img src='https://github.com/trong-khanh-1109/Web-Development/blob/fab34a5364e0a94a6b899b093b5d670580de26bf/Image/Xa%CC%82y%20du%CC%9B%CC%A3ng%20Tabs%20%20UI.png'></img>
  
