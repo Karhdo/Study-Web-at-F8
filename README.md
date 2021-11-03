@@ -1,4 +1,4 @@
-<h1 align="center"><b>F8 - HỌC LẬP TRÌNH ĐỂ ĐI LÀM</b></h>
+<h1 align="center"><b>F8 - Học Lập Trình Để Đi Làm</b></h>
 
 ## HTML, CSS từ Zero đến Hero.
 ### 1. Website The Band.
