@@ -26,7 +26,7 @@
   - Chạy Fake AIP: mở Termial và di chuyển đển thư mục Json_server chạy lệnh `npm start`
 
 ### Xây dựng Tabs UI.
-  - Website gốc: https://shopee.vn/
+  - Website gốc: [dribbble.](https://dribbble.com/shots/14483921-React-UI-kit-for-Figma-Design-Code-toolkit-2-in-1/attachments/6168243?mode=media)
   - Code: <a href='./3. Javascript cơ bản/2. Xây dựng Tabs UI'>Tabs UI</a></br>
   
 
