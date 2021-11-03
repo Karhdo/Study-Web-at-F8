@@ -22,7 +22,7 @@
 
 ## Javascript Cơ Bản.
 ### Thêm/sửa/xóa khóa học với Fetch và REST API.
-  - Code: <a href='./3. Javascript cơ bản/1. Practice_Fetch'>Practice_Fetch</a></br>
+  - Code: <a href='./3. Javascript cơ bản/1. Practice Fetch'>Practice_Fetch</a></br>
   - Chạy Fake AIP: mở Termial và di chuyển đển thư mục Json_server chạy lệnh `npm start`
 
 ### Xây dựng Tabs UI.
