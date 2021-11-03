@@ -24,10 +24,9 @@
 ### Thêm/sửa/xóa khóa học với Fetch và REST API.
   - Code: <a href='./3. Javascript cơ bản/1. Practice Fetch'>Practice_Fetch</a></br>
   - Chạy Fake AIP: mở Termial và di chuyển đển thư mục Json_server chạy lệnh `npm start`
+<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b15c63f9edf1843806b9e6082b6c5c06fa798b6a/Image/Javascript_1.png'></img>
 
 ### Xây dựng Tabs UI.
-  - Website gốc: [dribbble.](https://dribbble.com/shots/14483921-React-UI-kit-for-Figma-Design-Code-toolkit-2-in-1/attachments/6168243?mode=media)
+  - Website gốc: [dribbble](https://dribbble.com/shots/14483921-React-UI-kit-for-Figma-Design-Code-toolkit-2-in-1/attachments/6168243?mode=media)
   - Code: <a href='./3. Javascript cơ bản/2. Xây dựng Tabs UI'>Tabs UI</a></br>
-  
-
-<img src='https://github.com/trong-khanh-1109/Web-Development/blob/b15c63f9edf1843806b9e6082b6c5c06fa798b6a/Image/Javascript_1.png'></img>
+ 
