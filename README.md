@@ -34,4 +34,4 @@
 ### Music Player App.
   - Demo: [Music Player App.](https://trong-khanh-1109.github.io/Music_Player_App/)
   - Code: [Code Music Player App.](https://github.com/trong-khanh-1109/Music_Player_App)
- <img src='https://github.com/trong-khanh-1109/Study-Web-at-F8/blob/00ad00daf3a664b9ff497a8c95840044c706a320/Image/Music_App.png'></img>
+<p align="center"><img height='600px' src='https://github.com/trong-khanh-1109/Study-Web-at-F8/blob/00ad00daf3a664b9ff497a8c95840044c706a320/Image/Music_App.png'></img></p>
