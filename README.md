@@ -39,4 +39,5 @@
 ### Validation Form.
 - Validation Form Cách 1: <a href='./3. Javascript cơ bản/3. Validation Form'>Code.</a></br>
 - Validation Form Cách 2: [Code.]()
+<p align="center"><img height='600px' src='https://github.com/trong-khanh-1109/Study-Web-at-F8/blob/15edea435cff2eeec9c49d5487fb32f7a064df45/Image/Form_Validator.png'></img></p>
 
