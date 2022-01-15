@@ -37,6 +37,6 @@
 <p align="center"><img height='600px' src='https://github.com/trong-khanh-1109/Study-Web-at-F8/blob/00ad00daf3a664b9ff497a8c95840044c706a320/Image/Music_App.png'></img></p>
 
 ### Validation Form.
-- Validation Form Cách 1: <a href='./3. Javascript cơ bản/3. Validation Form'>Code</a></br>
+- Validation Form Cách 1: <a href='./3. Javascript cơ bản/3. Validation Form'>Code.</a></br>
 - Validation Form Cách 2: [Code.]()
 
